@@ -31,7 +31,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyB7BNLhOCSYoGsa1m1KclgLAa3alDnhFNE',
+    apiKey: 'API_KEY',
     appId: '1:214766471130:web:3a1ff248b9432643fe22e3',
     messagingSenderId: '214766471130',
     projectId: 'chat-app-78ad8',
@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyD70ysrwP_S3JkC-JTgi4kYLrS_C3sWl2o',
+    apiKey: 'API_KEY',
     appId: '1:214766471130:android:0ea6e8d8e1436fdffe22e3',
     messagingSenderId: '214766471130',
     projectId: 'chat-app-78ad8',
@@ -49,7 +49,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBDnV4VAu09Zh6QXTUipuJZhPU3uX2N-G4',
+    apiKey: 'API_KEY',
     appId: '1:214766471130:ios:e5067b3e33fc027cfe22e3',
     messagingSenderId: '214766471130',
     projectId: 'chat-app-78ad8',
@@ -58,7 +58,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBDnV4VAu09Zh6QXTUipuJZhPU3uX2N-G4',
+    apiKey: 'API_KEY',
     appId: '1:214766471130:ios:568d220b368d42e4fe22e3',
     messagingSenderId: '214766471130',
     projectId: 'chat-app-78ad8',
@@ -67,7 +67,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyBC_Jhl8A5BZJKiaN77-er4UIQTbNFhRKA',
+    apiKey: 'API_KEY',
     appId: '1:214766471130:web:4b9333081efce320fe22e3',
     messagingSenderId: '214766471130',
     projectId: 'chat-app-78ad8',
