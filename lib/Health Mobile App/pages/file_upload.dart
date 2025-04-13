@@ -111,7 +111,7 @@ class _FileUploadScreenState extends State<FileUploadScreen> {
   }
 
   Future<void> _analyzeWithGemini() async {
-    const apiKey = 'AIzaSyAU2IgOs9oZackY49au2pCC61Wd4c87viE';
+    const apiKey = 'YOUR_API_KEY';
     final uri = Uri.parse(
         'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=$apiKey');
 
