@@ -1,0 +1,1 @@
+D:\Flutter Projects\mediwise\build\app\intermediates\cxx\RelWithDebInfo\b586g32h\obj\armeabi-v7a

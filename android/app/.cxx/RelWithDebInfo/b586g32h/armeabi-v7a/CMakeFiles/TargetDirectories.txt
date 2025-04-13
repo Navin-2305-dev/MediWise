@@ -1,0 +1,2 @@
+D:/Flutter Projects/mediwise/android/app/.cxx/RelWithDebInfo/b586g32h/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/Flutter Projects/mediwise/android/app/.cxx/RelWithDebInfo/b586g32h/armeabi-v7a/CMakeFiles/rebuild_cache.dir

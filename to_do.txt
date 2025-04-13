@@ -1,0 +1,2 @@
+1. See to this Website - https://www.nmc.org.in/information-desk/indian-medical-register/ and use web scraping tech to scrape the doctor's 
+data from the doctor's register page, you can use this pdf as sample data in - "D:\Flutter Projects\mediwise\assets\pdfs\Doctor_info_sample.pdf"
